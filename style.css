@@ -137,7 +137,7 @@ span{
 
 /**Hero-section**/
 .hero-section{
-    background-image: url("/Amazon/Amazon_imgs/hero_image.jpg");
+    background-image: url("Amazon_imgs/hero_image.jpg");
     height:400px;
     background-size: cover;
     display: flex;
@@ -240,7 +240,7 @@ footer{
 }
 
 .foot-panel3 .logo{
-    background-image: url(/Amazon/Amazon_imgs/amazon_logo.png);
+    background-image: url("Amazon_imgs/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 100px;
